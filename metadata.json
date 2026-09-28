@@ -1,0 +1,6 @@
+{
+  "name": "Fin-Buddy by Ishmael Sackey Junior",
+  "description": "Personal finances manager featuring automated expense tracking, monthly budget visualizations, real-time bank linking, subscription alerts, mobile money bill splitting, peer-to-peer transfers, and encrypted security.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
